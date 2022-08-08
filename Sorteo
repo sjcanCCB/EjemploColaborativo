@@ -1,0 +1,9 @@
+#Programa para sorteo
+
+n1=int(input("ingrese un número"))
+
+if n1 == 1000: 
+   print ("Ganaste un premio")
+else:
+  print (n1)
+   
