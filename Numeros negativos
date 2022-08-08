@@ -1,0 +1,10 @@
+#Poner un numero en negativo
+
+n1=int(input("ingrese un numero"))
+
+if n1 > 1:
+  print (n1)
+
+else:
+  res = n1 * -1
+  print (res)
