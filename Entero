@@ -1,0 +1,9 @@
+#Pones un numero entero y luego te lo cambia a negativo 
+a=int(input("Ingrese un numero entero"))
+
+if a > 1:
+  print (a)
+
+else:
+  res = a * -1
+  print (res)
