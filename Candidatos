@@ -1,0 +1,14 @@
+#Te pide que ingreses el candidato que quieras, y luego te indica por cual partido votaste. 
+X=input("Ingrese el candidato elegido:")
+
+if X=="A": 
+ print("Usted ha votado por el partido rojo")
+
+elif X=="B": 
+  print ("Usted ha votado por el partido verde")
+
+elif X=="C": 
+  print("Usted ha votado por el partido azul")
+
+else: 
+  print("Opcion erronea")
