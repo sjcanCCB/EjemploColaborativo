@@ -1,0 +1,7 @@
+#Ingresas un numero, y si el numero que ingresaste es 1000, te dice que ganaste un premio.
+a=int(input("Ingrese un numero:"))
+print(a)
+if a==1000:
+   
+  print("Ganaste un premio")
+
